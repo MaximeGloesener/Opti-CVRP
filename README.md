@@ -9,7 +9,7 @@ Il faut résoudre 2 problèmes :
 
 
 NB: Dans le cadre de ce mini-projet, l'objectif était de tester le solver docplex. Les données sont donc générées aléatoirement en fonction des paramètres rentrés par l'utilisateur.
-Dans un cas réel, il suffirait de rentrer les vraies positions des clients et des dépôts potentiels, les quantités demandées par chaque clients et la capacité de la camionnette du marchand.
+Dans un cas réel, il suffirait de rentrer les vraies positions des clients et des dépôts potentiels, les quantités demandées par chaque client et la capacité de la camionnette du marchand.
 
 
 ### Comment tester le programme ?
@@ -17,6 +17,6 @@ Dans un cas réel, il suffirait de rentrer les vraies positions des clients et d
 - capacité de la camionnette du marchand de poisson
 - nombre de clients
 - nombre de dépôts possibles
-- bornes inférieure/supériéure des demandes des clients
+- bornes inférieure/supérieure des demandes des clients
 2) Lancer le solver 
 3) Visualiser les résultats
