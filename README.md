@@ -23,4 +23,4 @@ Dans un cas réel, il suffirait de rentrer les vraies positions des clients et d
 
 
 ### Monitoring
-Le notebook nommé monitoring est présent car il permet de montrer comment monitorer un modèle docplex. Cela nous permet de visualiser l'évolution du gap et de la fonction objective au cours du temps. (Méthode utilisée = Mixed integer programming -> méthode exacte)
+Le notebook nommé monitoring est présent car il permet de montrer comment monitorer un modèle docplex. Cela nous permet de visualiser l'évolution du gap et de la fonction objective au cours du temps et de l'exploration des différents noeuds. (Méthode utilisée = Mixed integer programming -> méthode exacte qui utilise un branch and cut)
